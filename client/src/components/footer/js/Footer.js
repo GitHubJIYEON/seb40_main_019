@@ -17,6 +17,7 @@ export default function Footer() {
                 >
                   • Repository Wiki
                 </a>
+                <br />
                 <a
                   href="https://github.com/codestates-seb/seb40_main_019/wiki"
                   target="blank"
@@ -44,6 +45,7 @@ export default function Footer() {
                   이지연
                 </a>
               </div>
+              <br />
               <div>
                 <span>Back-End&ensp;</span>
                 <a href="https://github.com/hyojoonm" target="blank">
